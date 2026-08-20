@@ -1,4 +1,4 @@
-# kushagar0206-
+# kushagarupadhyay-
 
 # Hi 👋, I'm Kushagar Upadhyay
 

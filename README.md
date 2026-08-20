@@ -9,14 +9,20 @@ Welcome to my GitHub profile!
 I am a BCA Graduate passionate about Java programming and software development. I enjoy building desktop applications and continuously learning new technologies.
 
 ## 🚀 Skills
-- Java
-- Object-Oriented Programming (OOP)
-- JDBC
-- MySQL
-- Spring boot 
-- Rest APIs
-- Hibernate
-- Git & GitHub
+ Backend
+ - Java
+ - Object-Oriented Programming (OOP)
+ - JDBC
+ - MySQL
+ - Spring boot 
+ - Rest APIs
+ - Hibernate
+ - Git & GitHub
+
+ Frontend
+ - HTML
+ - CSS
+ - JavasCRIPT
 
 ## 🌱 Currently Learning
 - Microservices

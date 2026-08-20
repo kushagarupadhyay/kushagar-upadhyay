@@ -14,13 +14,15 @@ I am a BCA Graduate passionate about Java programming and software development. 
 - JDBC
 - MySQL
 - Spring boot 
-- JavaFX
+- Rest APIs
+- Hibernate
 - Git & GitHub
 
 ## 🌱 Currently Learning
-- Spring Boot
-- Hibernate
-- REST APIs
+- Microservices
+- Docker
+- Kubernate
+- cloud Services
 
 ## 📂 Projects
 - Student Management System
@@ -33,7 +35,7 @@ I am a BCA Graduate passionate about Java programming and software development. 
 To become a professional Java Backend Developer and build real-world software applications.
 
 ## 📫 Contact
-- Email: kushagar2003@gmail.com
+- Email: kushagar.dev@gmail.com
 - GitHub: https://github.com/kushagarupadhyay
 - LinkedIn: (https://www.linkedin.com/in/kushagarupadhyay)
 
